@@ -49,7 +49,8 @@
 2. Use user credentials setup in FORGEROCK OpenAM
 3. Start using the Nexus GO signing portal
 
-For more information about Nexus GO please visit [Nexus online documentation](https://doc.nexusgroup.com)
-For more information about FORGEROCK please visit [FORGEROCK](https://forgerock.com)
+## Further reading
+* For more information about Nexus GO please visit [Nexus online documentation](https://doc.nexusgroup.com)
+* For more information about FORGEROCK please visit [FORGEROCK Backstage](https://backstage.forgerock.com)
 
 
